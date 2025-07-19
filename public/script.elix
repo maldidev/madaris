@@ -1,0 +1,14 @@
+<?elix
+
+public class main(String[]) {
+    echo "Loading PublicService...";
+    loadservice("PublicService");
+    if (script.services.PublicService) {
+        PublicService as ps;
+        ps.init();
+        if (ps.init()==!NULL) {
+            github_link("maldidev/madaris");
+            return %if(script.main().ended==NULL)% 1
+        }
+    }
+} 

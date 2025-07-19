@@ -1,0 +1,9 @@
+[Package]
+Author="maldidev"
+AuthorAccount="https://github.com/maldidev"
+Sources="https://github.com/maldidev/madaris"
+CloneCommand="git clone ${Sources} && cd ${Sources}"
+MakeCommand="make clean && make all"
+[License]
+License='GPL'
+
