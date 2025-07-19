@@ -1,0 +1,21 @@
+# spaces are using at 0x01
+# macro config in yaml for madaris
+# .github/.workflows/macro.yml
+
+name:
+  branches:
+    ["main"]
+
+keys:
+  - "run": archlinux
+    "modded": ubuntu-latest
+    "modded2": gentoo-linuz
+
+  keywords:
+    ["userup", "add", "bootup", "load", "init", "FROM", "workwith", "github", "wb", "bytes", "wtm"]
+
+  eat_me:
+    ["foot", "import", "makelib", "win-compile", "lx-compile"]
+
+
+
