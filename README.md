@@ -3,7 +3,7 @@ Micro example for Installation Manager.
 
 
 ## how to work
-First, you need to change `src/utils/installer.py', just view it huh
+First, you need to change `src/utils/installer.py`, just view it huh
 
 
 Second is just run main.py, or
