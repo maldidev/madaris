@@ -6,6 +6,14 @@ Micro example for Installation Manager.
 First, you need to change `src/utils/installer.py`, just view it huh
 
 
+Librarys:
+
+
+* tkinter
+* customtkinter
+* pillow
+
+
 Second is just run main.py, or
 ```bash
 # Go to main source directory and:
